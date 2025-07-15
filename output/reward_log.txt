@@ -1,0 +1,2 @@
+BLEU Similarity Score: 0.0055
+Flesch Reading Ease (Higher is better): 83.18
